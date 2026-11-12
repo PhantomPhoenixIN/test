@@ -1,0 +1,4 @@
+<embedded code object>:685: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<embedded code object>:697: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<embedded code object>:1505: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<embedded code object>:2025: SyntaxWarning: "is" with a literal. Did you mean "=="?

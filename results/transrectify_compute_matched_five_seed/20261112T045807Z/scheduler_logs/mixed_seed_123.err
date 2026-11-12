@@ -1,0 +1,13 @@
+<embedded code object>:685: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<embedded code object>:697: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<embedded code object>:1505: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<embedded code object>:2025: SyntaxWarning: "is" with a literal. Did you mean "=="?
+ERROR: Unable to locate a modulefile for 'anaconda/conda'
+The following values were not passed to `accelerate launch` and had defaults used instead:
+	`--num_machines` was set to a value of `1`
+	`--mixed_precision` was set to a value of `'no'`
+	`--dynamo_backend` was set to a value of `'no'`
+To avoid this warning pass in values for each of the problematic parameters or run `accelerate config`.
+Detected kernel version 4.18.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+/home/swaminathanj/Project1/env/lib/python3.10/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: `clean_up_tokenization_spaces` was not set. It will be set to `True` by default. This behavior will be depracted in transformers v4.45, and will be then set to `False` by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(

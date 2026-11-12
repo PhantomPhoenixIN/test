@@ -1,0 +1,94 @@
+2026-11-11 15:36:57,401 INFO START host=gpu01 python=/home/swaminathanj/Project1/env/bin/python torch=2.5.1+cu118 cuda=True device_count=2 target_updates=17771 seed=123
+2026-11-11 15:36:57,403 INFO DATASET=/home/swaminathanj/TransRectify_New/content/datasets/codenet_combined_translator_dataset_astfixed.jsonl BASE_MODEL=/home/swaminathanj/CodeFixNet/content/models/CodeT5/CodeT5
+2026-11-11 15:59:25,432 INFO strategy=mixed epoch=1 updates=2478/17771 train_loss=0.556001 val_loss=0.284084
+2026-11-11 16:21:53,769 INFO strategy=mixed epoch=2 updates=4956/17771 train_loss=0.288494 val_loss=0.245414
+2026-11-11 16:44:08,224 INFO strategy=mixed epoch=3 updates=7434/17771 train_loss=0.237561 val_loss=0.224793
+2026-11-11 17:06:31,169 INFO strategy=mixed epoch=4 updates=9912/17771 train_loss=0.206577 val_loss=0.218806
+2026-11-11 17:28:56,888 INFO strategy=mixed epoch=5 updates=12390/17771 train_loss=0.184748 val_loss=0.212083
+2026-11-11 17:51:13,079 INFO strategy=mixed epoch=6 updates=14868/17771 train_loss=0.168908 val_loss=0.210959
+2026-11-11 18:13:40,021 INFO strategy=mixed epoch=7 updates=17346/17771 train_loss=0.157935 val_loss=0.210123
+2026-11-11 18:17:42,831 INFO strategy=mixed epoch=8 updates=17771/17771 train_loss=0.155191 val_loss=0.210683
+[INFO] Loaded 1308 test instances
+2026-11-11 18:18:12,712 INFO strategy=mixed_seed_123 generated=16/1308
+2026-11-11 18:18:41,076 INFO strategy=mixed_seed_123 generated=32/1308
+2026-11-11 18:19:09,445 INFO strategy=mixed_seed_123 generated=48/1308
+2026-11-11 18:19:37,999 INFO strategy=mixed_seed_123 generated=64/1308
+2026-11-11 18:20:06,369 INFO strategy=mixed_seed_123 generated=80/1308
+2026-11-11 18:20:34,804 INFO strategy=mixed_seed_123 generated=96/1308
+2026-11-11 18:21:03,277 INFO strategy=mixed_seed_123 generated=112/1308
+2026-11-11 18:21:31,717 INFO strategy=mixed_seed_123 generated=128/1308
+2026-11-11 18:22:00,282 INFO strategy=mixed_seed_123 generated=144/1308
+2026-11-11 18:22:29,245 INFO strategy=mixed_seed_123 generated=160/1308
+2026-11-11 18:22:57,830 INFO strategy=mixed_seed_123 generated=176/1308
+2026-11-11 18:23:26,453 INFO strategy=mixed_seed_123 generated=192/1308
+2026-11-11 18:23:55,051 INFO strategy=mixed_seed_123 generated=208/1308
+2026-11-11 18:24:23,689 INFO strategy=mixed_seed_123 generated=224/1308
+2026-11-11 18:24:52,356 INFO strategy=mixed_seed_123 generated=240/1308
+2026-11-11 18:25:20,982 INFO strategy=mixed_seed_123 generated=256/1308
+2026-11-11 18:25:49,576 INFO strategy=mixed_seed_123 generated=272/1308
+2026-11-11 18:26:11,760 INFO strategy=mixed_seed_123 generated=288/1308
+2026-11-11 18:26:40,380 INFO strategy=mixed_seed_123 generated=304/1308
+2026-11-11 18:27:06,559 INFO strategy=mixed_seed_123 generated=320/1308
+2026-11-11 18:27:35,372 INFO strategy=mixed_seed_123 generated=336/1308
+2026-11-11 18:27:56,410 INFO strategy=mixed_seed_123 generated=352/1308
+2026-11-11 18:28:25,050 INFO strategy=mixed_seed_123 generated=368/1308
+2026-11-11 18:28:53,622 INFO strategy=mixed_seed_123 generated=384/1308
+2026-11-11 18:29:22,151 INFO strategy=mixed_seed_123 generated=400/1308
+2026-11-11 18:29:38,761 INFO strategy=mixed_seed_123 generated=416/1308
+2026-11-11 18:30:05,312 INFO strategy=mixed_seed_123 generated=432/1308
+2026-11-11 18:30:30,850 INFO strategy=mixed_seed_123 generated=448/1308
+2026-11-11 18:30:58,502 INFO strategy=mixed_seed_123 generated=464/1308
+2026-11-11 18:31:26,948 INFO strategy=mixed_seed_123 generated=480/1308
+2026-11-11 18:31:53,853 INFO strategy=mixed_seed_123 generated=496/1308
+2026-11-11 18:32:22,257 INFO strategy=mixed_seed_123 generated=512/1308
+2026-11-11 18:32:50,725 INFO strategy=mixed_seed_123 generated=528/1308
+2026-11-11 18:33:19,312 INFO strategy=mixed_seed_123 generated=544/1308
+2026-11-11 18:33:47,566 INFO strategy=mixed_seed_123 generated=560/1308
+2026-11-11 18:34:16,317 INFO strategy=mixed_seed_123 generated=576/1308
+2026-11-11 18:34:41,649 INFO strategy=mixed_seed_123 generated=592/1308
+2026-11-11 18:35:10,068 INFO strategy=mixed_seed_123 generated=608/1308
+2026-11-11 18:35:38,706 INFO strategy=mixed_seed_123 generated=624/1308
+2026-11-11 18:36:07,343 INFO strategy=mixed_seed_123 generated=640/1308
+2026-11-11 18:36:36,226 INFO strategy=mixed_seed_123 generated=656/1308
+2026-11-11 18:37:05,143 INFO strategy=mixed_seed_123 generated=672/1308
+2026-11-11 18:37:31,025 INFO strategy=mixed_seed_123 generated=688/1308
+2026-11-11 18:37:46,903 INFO strategy=mixed_seed_123 generated=704/1308
+2026-11-11 18:38:02,786 INFO strategy=mixed_seed_123 generated=720/1308
+2026-11-11 18:38:18,754 INFO strategy=mixed_seed_123 generated=736/1308
+2026-11-11 18:38:34,637 INFO strategy=mixed_seed_123 generated=752/1308
+2026-11-11 18:38:50,536 INFO strategy=mixed_seed_123 generated=768/1308
+2026-11-11 18:39:06,429 INFO strategy=mixed_seed_123 generated=784/1308
+2026-11-11 18:39:19,851 INFO strategy=mixed_seed_123 generated=800/1308
+2026-11-11 18:39:35,721 INFO strategy=mixed_seed_123 generated=816/1308
+2026-11-11 18:39:51,983 INFO strategy=mixed_seed_123 generated=832/1308
+2026-11-11 18:40:08,571 INFO strategy=mixed_seed_123 generated=848/1308
+2026-11-11 18:40:24,950 INFO strategy=mixed_seed_123 generated=864/1308
+2026-11-11 18:40:40,888 INFO strategy=mixed_seed_123 generated=880/1308
+2026-11-11 18:40:56,846 INFO strategy=mixed_seed_123 generated=896/1308
+2026-11-11 18:41:12,825 INFO strategy=mixed_seed_123 generated=912/1308
+2026-11-11 18:41:28,801 INFO strategy=mixed_seed_123 generated=928/1308
+2026-11-11 18:41:44,796 INFO strategy=mixed_seed_123 generated=944/1308
+2026-11-11 18:42:00,785 INFO strategy=mixed_seed_123 generated=960/1308
+2026-11-11 18:42:16,769 INFO strategy=mixed_seed_123 generated=976/1308
+2026-11-11 18:42:32,771 INFO strategy=mixed_seed_123 generated=992/1308
+2026-11-11 18:42:48,785 INFO strategy=mixed_seed_123 generated=1008/1308
+2026-11-11 18:43:04,790 INFO strategy=mixed_seed_123 generated=1024/1308
+2026-11-11 18:43:20,690 INFO strategy=mixed_seed_123 generated=1040/1308
+2026-11-11 18:43:33,701 INFO strategy=mixed_seed_123 generated=1056/1308
+2026-11-11 18:43:49,584 INFO strategy=mixed_seed_123 generated=1072/1308
+2026-11-11 18:44:05,486 INFO strategy=mixed_seed_123 generated=1088/1308
+2026-11-11 18:44:21,327 INFO strategy=mixed_seed_123 generated=1104/1308
+2026-11-11 18:44:34,427 INFO strategy=mixed_seed_123 generated=1120/1308
+2026-11-11 18:44:50,299 INFO strategy=mixed_seed_123 generated=1136/1308
+2026-11-11 18:45:05,341 INFO strategy=mixed_seed_123 generated=1152/1308
+2026-11-11 18:45:18,971 INFO strategy=mixed_seed_123 generated=1168/1308
+2026-11-11 18:45:34,851 INFO strategy=mixed_seed_123 generated=1184/1308
+2026-11-11 18:45:50,767 INFO strategy=mixed_seed_123 generated=1200/1308
+2026-11-11 18:46:02,165 INFO strategy=mixed_seed_123 generated=1216/1308
+2026-11-11 18:46:18,140 INFO strategy=mixed_seed_123 generated=1232/1308
+2026-11-11 18:46:34,014 INFO strategy=mixed_seed_123 generated=1248/1308
+2026-11-11 18:46:49,651 INFO strategy=mixed_seed_123 generated=1264/1308
+2026-11-11 18:46:59,252 INFO strategy=mixed_seed_123 generated=1280/1308
+2026-11-11 18:47:15,268 INFO strategy=mixed_seed_123 generated=1296/1308
+2026-11-11 18:47:27,499 INFO strategy=mixed_seed_123 generated=1308/1308
+2026-11-11 18:47:27,721 INFO RUN_STATUS=SUCCESS predictions_complete evaluation_deferred

@@ -1,0 +1,97 @@
+2026-11-11 21:48:48,936 INFO START host=gpu03 python=/home/swaminathanj/Project1/env/bin/python torch=2.5.1+cu118 cuda=True device_count=2 target_updates=18053 seed=2026
+2026-11-11 21:48:48,938 INFO DATASET=/home/swaminathanj/TransRectify_New/content/datasets/codenet_combined_translator_dataset_astfixed.jsonl BASE_MODEL=/home/swaminathanj/CodeFixNet/content/models/CodeT5/CodeT5
+2026-11-11 22:05:26,050 INFO strategy=mixed epoch=1 updates=2478/14945 train_loss=0.557038 val_loss=0.282114
+2026-11-11 22:20:58,155 INFO strategy=mixed epoch=2 updates=4956/14945 train_loss=0.289664 val_loss=0.245938
+2026-11-11 22:35:14,475 INFO strategy=mixed epoch=3 updates=7434/14945 train_loss=0.240119 val_loss=0.227819
+2026-11-11 22:47:42,341 INFO strategy=mixed epoch=4 updates=9912/14945 train_loss=0.208849 val_loss=0.216621
+2026-11-11 23:01:39,135 INFO strategy=mixed epoch=5 updates=12390/14945 train_loss=0.188436 val_loss=0.212626
+2026-11-11 23:17:20,339 INFO strategy=mixed epoch=6 updates=14868/14945 train_loss=0.174755 val_loss=0.211575
+2026-11-11 23:17:56,411 INFO strategy=mixed epoch=7 updates=14945/14945 train_loss=0.148141 val_loss=0.211718
+2026-11-11 23:22:13,643 INFO strategy=s3_matched epoch=1 updates=777/3108 train_loss=0.110587 val_loss=0.111540
+2026-11-11 23:26:38,508 INFO strategy=s3_matched epoch=2 updates=1554/3108 train_loss=0.092258 val_loss=0.112490
+2026-11-11 23:30:56,132 INFO strategy=s3_matched epoch=3 updates=2331/3108 train_loss=0.075588 val_loss=0.112136
+2026-11-11 23:35:13,141 INFO strategy=s3_matched epoch=4 updates=3108/3108 train_loss=0.065059 val_loss=0.113662
+[INFO] Loaded 1308 test instances
+2026-11-11 23:35:32,779 INFO strategy=mixed_s3_seed_2026 generated=16/1308
+2026-11-11 23:35:54,275 INFO strategy=mixed_s3_seed_2026 generated=32/1308
+2026-11-11 23:36:16,965 INFO strategy=mixed_s3_seed_2026 generated=48/1308
+2026-11-11 23:36:39,737 INFO strategy=mixed_s3_seed_2026 generated=64/1308
+2026-11-11 23:36:53,805 INFO strategy=mixed_s3_seed_2026 generated=80/1308
+2026-11-11 23:37:15,195 INFO strategy=mixed_s3_seed_2026 generated=96/1308
+2026-11-11 23:37:37,585 INFO strategy=mixed_s3_seed_2026 generated=112/1308
+2026-11-11 23:38:00,204 INFO strategy=mixed_s3_seed_2026 generated=128/1308
+2026-11-11 23:38:16,401 INFO strategy=mixed_s3_seed_2026 generated=144/1308
+2026-11-11 23:38:38,955 INFO strategy=mixed_s3_seed_2026 generated=160/1308
+2026-11-11 23:39:01,715 INFO strategy=mixed_s3_seed_2026 generated=176/1308
+2026-11-11 23:39:24,534 INFO strategy=mixed_s3_seed_2026 generated=192/1308
+2026-11-11 23:39:42,432 INFO strategy=mixed_s3_seed_2026 generated=208/1308
+2026-11-11 23:40:02,894 INFO strategy=mixed_s3_seed_2026 generated=224/1308
+2026-11-11 23:40:24,479 INFO strategy=mixed_s3_seed_2026 generated=240/1308
+2026-11-11 23:40:45,959 INFO strategy=mixed_s3_seed_2026 generated=256/1308
+2026-11-11 23:41:03,710 INFO strategy=mixed_s3_seed_2026 generated=272/1308
+2026-11-11 23:41:23,281 INFO strategy=mixed_s3_seed_2026 generated=288/1308
+2026-11-11 23:41:46,097 INFO strategy=mixed_s3_seed_2026 generated=304/1308
+2026-11-11 23:42:04,001 INFO strategy=mixed_s3_seed_2026 generated=320/1308
+2026-11-11 23:42:20,538 INFO strategy=mixed_s3_seed_2026 generated=336/1308
+2026-11-11 23:42:40,540 INFO strategy=mixed_s3_seed_2026 generated=352/1308
+2026-11-11 23:43:02,802 INFO strategy=mixed_s3_seed_2026 generated=368/1308
+2026-11-11 23:43:25,393 INFO strategy=mixed_s3_seed_2026 generated=384/1308
+2026-11-11 23:43:43,924 INFO strategy=mixed_s3_seed_2026 generated=400/1308
+2026-11-11 23:44:05,247 INFO strategy=mixed_s3_seed_2026 generated=416/1308
+2026-11-11 23:44:25,850 INFO strategy=mixed_s3_seed_2026 generated=432/1308
+2026-11-11 23:44:47,011 INFO strategy=mixed_s3_seed_2026 generated=448/1308
+2026-11-11 23:45:01,556 INFO strategy=mixed_s3_seed_2026 generated=464/1308
+2026-11-11 23:45:23,454 INFO strategy=mixed_s3_seed_2026 generated=480/1308
+2026-11-11 23:45:44,242 INFO strategy=mixed_s3_seed_2026 generated=496/1308
+2026-11-11 23:46:06,366 INFO strategy=mixed_s3_seed_2026 generated=512/1308
+2026-11-11 23:46:24,331 INFO strategy=mixed_s3_seed_2026 generated=528/1308
+2026-11-11 23:46:44,399 INFO strategy=mixed_s3_seed_2026 generated=544/1308
+2026-11-11 23:47:06,271 INFO strategy=mixed_s3_seed_2026 generated=560/1308
+2026-11-11 23:47:28,972 INFO strategy=mixed_s3_seed_2026 generated=576/1308
+2026-11-11 23:47:43,493 INFO strategy=mixed_s3_seed_2026 generated=592/1308
+2026-11-11 23:48:00,124 INFO strategy=mixed_s3_seed_2026 generated=608/1308
+2026-11-11 23:48:22,650 INFO strategy=mixed_s3_seed_2026 generated=624/1308
+2026-11-11 23:48:45,491 INFO strategy=mixed_s3_seed_2026 generated=640/1308
+2026-11-11 23:49:07,027 INFO strategy=mixed_s3_seed_2026 generated=656/1308
+2026-11-11 23:49:25,085 INFO strategy=mixed_s3_seed_2026 generated=672/1308
+2026-11-11 23:49:47,798 INFO strategy=mixed_s3_seed_2026 generated=688/1308
+2026-11-11 23:50:10,371 INFO strategy=mixed_s3_seed_2026 generated=704/1308
+2026-11-11 23:50:31,280 INFO strategy=mixed_s3_seed_2026 generated=720/1308
+2026-11-11 23:50:49,957 INFO strategy=mixed_s3_seed_2026 generated=736/1308
+2026-11-11 23:51:12,714 INFO strategy=mixed_s3_seed_2026 generated=752/1308
+2026-11-11 23:51:35,517 INFO strategy=mixed_s3_seed_2026 generated=768/1308
+2026-11-11 23:51:54,210 INFO strategy=mixed_s3_seed_2026 generated=784/1308
+2026-11-11 23:52:12,764 INFO strategy=mixed_s3_seed_2026 generated=800/1308
+2026-11-11 23:52:35,338 INFO strategy=mixed_s3_seed_2026 generated=816/1308
+2026-11-11 23:52:52,116 INFO strategy=mixed_s3_seed_2026 generated=832/1308
+2026-11-11 23:53:10,871 INFO strategy=mixed_s3_seed_2026 generated=848/1308
+2026-11-11 23:53:28,044 INFO strategy=mixed_s3_seed_2026 generated=864/1308
+2026-11-11 23:53:49,126 INFO strategy=mixed_s3_seed_2026 generated=880/1308
+2026-11-11 23:54:11,580 INFO strategy=mixed_s3_seed_2026 generated=896/1308
+2026-11-11 23:54:33,079 INFO strategy=mixed_s3_seed_2026 generated=912/1308
+2026-11-11 23:54:50,674 INFO strategy=mixed_s3_seed_2026 generated=928/1308
+2026-11-11 23:55:13,512 INFO strategy=mixed_s3_seed_2026 generated=944/1308
+2026-11-11 23:55:36,178 INFO strategy=mixed_s3_seed_2026 generated=960/1308
+2026-11-11 23:55:56,759 INFO strategy=mixed_s3_seed_2026 generated=976/1308
+2026-11-11 23:56:16,067 INFO strategy=mixed_s3_seed_2026 generated=992/1308
+2026-11-11 23:56:38,794 INFO strategy=mixed_s3_seed_2026 generated=1008/1308
+2026-11-11 23:57:01,696 INFO strategy=mixed_s3_seed_2026 generated=1024/1308
+2026-11-11 23:57:19,885 INFO strategy=mixed_s3_seed_2026 generated=1040/1308
+2026-11-11 23:57:40,398 INFO strategy=mixed_s3_seed_2026 generated=1056/1308
+2026-11-11 23:58:03,127 INFO strategy=mixed_s3_seed_2026 generated=1072/1308
+2026-11-11 23:58:25,870 INFO strategy=mixed_s3_seed_2026 generated=1088/1308
+2026-11-11 23:58:43,532 INFO strategy=mixed_s3_seed_2026 generated=1104/1308
+2026-11-11 23:59:00,587 INFO strategy=mixed_s3_seed_2026 generated=1120/1308
+2026-11-11 23:59:22,815 INFO strategy=mixed_s3_seed_2026 generated=1136/1308
+2026-11-11 23:59:45,451 INFO strategy=mixed_s3_seed_2026 generated=1152/1308
+2026-11-12 00:00:01,431 INFO strategy=mixed_s3_seed_2026 generated=1168/1308
+2026-11-12 00:00:21,963 INFO strategy=mixed_s3_seed_2026 generated=1184/1308
+2026-11-12 00:00:40,757 INFO strategy=mixed_s3_seed_2026 generated=1200/1308
+2026-11-12 00:01:02,002 INFO strategy=mixed_s3_seed_2026 generated=1216/1308
+2026-11-12 00:01:19,501 INFO strategy=mixed_s3_seed_2026 generated=1232/1308
+2026-11-12 00:01:39,023 INFO strategy=mixed_s3_seed_2026 generated=1248/1308
+2026-11-12 00:02:00,280 INFO strategy=mixed_s3_seed_2026 generated=1264/1308
+2026-11-12 00:02:15,482 INFO strategy=mixed_s3_seed_2026 generated=1280/1308
+2026-11-12 00:02:38,055 INFO strategy=mixed_s3_seed_2026 generated=1296/1308
+2026-11-12 00:02:56,113 INFO strategy=mixed_s3_seed_2026 generated=1308/1308
+2026-11-12 00:02:56,436 INFO RUN_STATUS=SUCCESS predictions_complete evaluation_deferred

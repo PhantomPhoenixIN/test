@@ -1,0 +1,79 @@
+{
+  "run_id": "20261112T045807Z",
+  "repository": "https://github.com/PhantomPhoenixIN/test.git",
+  "source_root": "/home/swaminathanj/TransRectify_New/content/files/update",
+  "prediction_artifacts": [
+    {
+      "name": "mixed_s3_seed_123.jsonl",
+      "raw_bytes": 6180493,
+      "compressed_bytes": 391912,
+      "compressed_sha256": "d530e72d68b09b024199565aa44fbede08412970982157c8d234adcfc9caaa16",
+      "uploaded": true
+    },
+    {
+      "name": "mixed_s3_seed_2026.jsonl",
+      "raw_bytes": 6113384,
+      "compressed_bytes": 384122,
+      "compressed_sha256": "7069dd4d2b8959bbdcceeda32379dce1510bc30f8375e12b048096ccb1fa1c94",
+      "uploaded": true
+    },
+    {
+      "name": "mixed_s3_seed_42.jsonl",
+      "raw_bytes": 5879028,
+      "compressed_bytes": 370930,
+      "compressed_sha256": "3a462765d05b0f563a01936aa8c1346048b145f4e9bf54fa79a1235d17f30923",
+      "uploaded": true
+    },
+    {
+      "name": "mixed_s3_seed_7.jsonl",
+      "raw_bytes": 5980287,
+      "compressed_bytes": 376419,
+      "compressed_sha256": "9e4ed6e1129161103448cbe94868649724ce1ceefbb815f72274bd552a5c012b",
+      "uploaded": true
+    },
+    {
+      "name": "mixed_s3_seed_999.jsonl",
+      "raw_bytes": 5925653,
+      "compressed_bytes": 370642,
+      "compressed_sha256": "96f07674fb4d26ef4200dd71bbf8b3d9ec26048f8e65e5fb1af05fb31fde6f63",
+      "uploaded": true
+    },
+    {
+      "name": "mixed_seed_123.jsonl",
+      "raw_bytes": 5897286,
+      "compressed_bytes": 384532,
+      "compressed_sha256": "03634842a72e29793842ca7410286dc8e08180497085c4f3b5886b86445edc52",
+      "uploaded": true
+    },
+    {
+      "name": "mixed_seed_2026.jsonl",
+      "raw_bytes": 5794693,
+      "compressed_bytes": 377017,
+      "compressed_sha256": "214c918a3e58a6ebf00c9d7dcb064a79787d308fe26ecc05b3953cfc9dc2e174",
+      "uploaded": true
+    },
+    {
+      "name": "mixed_seed_42.jsonl",
+      "raw_bytes": 5837140,
+      "compressed_bytes": 377859,
+      "compressed_sha256": "ab9d32c359adc879bd36ee5e1566569c881b2546eb6401c79456547d24797530",
+      "uploaded": true
+    },
+    {
+      "name": "mixed_seed_7.jsonl",
+      "raw_bytes": 5846105,
+      "compressed_bytes": 378956,
+      "compressed_sha256": "d69cb19dcffd86a6ef9190b4a92477bba3706ea67b46c3ce1d7c1bd7936672b2",
+      "uploaded": true
+    },
+    {
+      "name": "mixed_seed_999.jsonl",
+      "raw_bytes": 5949443,
+      "compressed_bytes": 387103,
+      "compressed_sha256": "398276b22173da0a8d64bbef094dc6c484ec995bcab0d75f6e7edb3d60a43b4d",
+      "uploaded": true
+    }
+  ],
+  "model_weights_uploaded": false,
+  "model_weights_note": "Model checkpoints are excluded because they exceed normal GitHub file limits."
+}

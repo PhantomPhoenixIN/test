@@ -1,0 +1,14 @@
+{
+  "actual_updates": 14945,
+  "base_model": "/home/swaminathanj/CodeFixNet/content/models/CodeT5/CodeT5",
+  "best_update": 14868,
+  "best_val_loss": 0.21157467688376808,
+  "dataset": "/home/swaminathanj/TransRectify_New/content/datasets/codenet_combined_translator_dataset_astfixed.jsonl",
+  "epochs": 7,
+  "output_strategy": "mixed_s3_seed_2026_mixed_phase",
+  "seed": 2026,
+  "strategy": "mixed",
+  "target_updates": 14945,
+  "train_examples": 19820,
+  "val_examples": 781
+}

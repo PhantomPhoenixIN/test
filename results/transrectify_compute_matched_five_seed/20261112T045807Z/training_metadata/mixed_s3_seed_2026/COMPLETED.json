@@ -1,0 +1,14 @@
+{
+  "actual_updates": 3108,
+  "base_model": "/home/swaminathanj/TransRectify_New/content/files/update/content/compute_matched_controls/models/mixed_s3_seed_2026_mixed_phase/best",
+  "best_update": 777,
+  "best_val_loss": 0.11153953858921604,
+  "dataset": "/home/swaminathanj/TransRectify_New/content/datasets/codenet_combined_translator_dataset_astfixed.jsonl",
+  "epochs": 4,
+  "output_strategy": "mixed_s3_seed_2026",
+  "seed": 2026,
+  "strategy": "s3_matched",
+  "target_updates": 3108,
+  "train_examples": 6214,
+  "val_examples": 246
+}

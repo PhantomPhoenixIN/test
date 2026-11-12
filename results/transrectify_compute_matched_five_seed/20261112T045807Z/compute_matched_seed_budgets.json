@@ -1,0 +1,12 @@
+{
+  "batch_size": 8,
+  "stage_train_examples": {"S1": 7358, "S2": 6248, "S3": 6214},
+  "stage_updates": {
+    "42": {"S1": 10120, "S2": 4686, "S3": 3108, "total": 17914},
+    "7": {"S1": 9200, "S2": 5467, "S3": 3885, "total": 18552},
+    "123": {"S1": 9200, "S2": 4686, "S3": 3885, "total": 17771},
+    "999": {"S1": 10120, "S2": 4686, "S3": 3885, "total": 18691},
+    "2026": {"S1": 11040, "S2": 3905, "S3": 3108, "total": 18053}
+  },
+  "provenance": "Recovered from the existing curriculum logs; each stage update count is epochs multiplied by ceil(train_examples / batch_size)."
+}

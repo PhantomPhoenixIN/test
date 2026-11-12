@@ -1,0 +1,14 @@
+{
+  "actual_updates": 3885,
+  "base_model": "/home/swaminathanj/TransRectify_New/content/files/update/content/compute_matched_controls/models/mixed_s3_seed_7_mixed_phase/best",
+  "best_update": 1554,
+  "best_val_loss": 0.11298783159544391,
+  "dataset": "/home/swaminathanj/TransRectify_New/content/datasets/codenet_combined_translator_dataset_astfixed.jsonl",
+  "epochs": 5,
+  "output_strategy": "mixed_s3_seed_7",
+  "seed": 7,
+  "strategy": "s3_matched",
+  "target_updates": 3885,
+  "train_examples": 6214,
+  "val_examples": 246
+}
